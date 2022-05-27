@@ -31,7 +31,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sTW] TreinaWeb | ![][i11] **JavaScript Básico**                           [⮚][11] | 34 Horas           | ![][nota7]        |
 | ![][sTW] TreinaWeb | ![][i12] **JavaScript Intermediário**                    [⮚][12] | 22 Horas           | ![][nota10]       |
 | ![][sTW] TreinaWeb | ![][i19] **JavaScript Avançado**                         [⮚][19] | 16 Horas           | ![][nota9]        |
-| ![][sSL] SoloLearn | ![][i13] **Java** ![][iUS]                               [⮚][13] | *indefinido*       | ![][nota5]        |
+| ![][sSL] Udemy     | ![][i13] **LARAVEL 6                                     [⮚][13] | 25 Horas           | ![][nota10]        |
 | ![][sCV] CEV       | ![][i14] **Java**                                        [⮚][14] | 40 Horas / Aula    | ![][nota9]        |
 | ![][sTW] TreinaWeb | ![][i15] **Java 10 - Orientação a Objetos**              [⮚][15] | 22 Horas           | ![][nota10]       |
 | ![][sSL] SoloLearn | ![][i20] **Python 3** ![][iUS]                           [⮚][20] | *indefinido*       | ![][nota8]        |
