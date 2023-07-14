@@ -11,7 +11,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
 | CMPCB                  | **Certificado de Conclusão do Ensino Médio**    [->][EnsinoMedio] | 30/12/1999                 |
-| Estacio                | **Analise de Sistema e Desenvolvimento de Software** [->][Faculdade]   | 30/09/2023            |
+| Estacio                | **Análise de Sistema e Desenvolvimento de Software** [->][Faculdade]   | 30/09/2023            |
 
 <!-- Acadêmico / Científico-->
 [EnsinoMedio]: https://drive.google.com/file/d/1s1dFQfJ1h2pVy9ZDi647cZTsTZrTNpdQ/view?usp=sharing
@@ -27,11 +27,13 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | ------------------ | ------------------------------------------------------------ | ------------------ | ----------------- |
 | DENSM - Marinha    | **Supervisão de Redes**               [->][SupervisorRedes]  | 80 Horas           | Média 10          |
 | Curso em Video     | **Algoritimos**                       [->][Algo]             | 40 Horas           | Média 10          |
+| Curso em Video     | **HTML5**                            [->][HTML5]             | 40 Horas           |  Média 9          |
 ---
 
 <!-- Cursos -->
 [SupervisorRedes]: https://drive.google.com/file/d/14_YS6F9hF0YJcjjP1ssTFl1DKvCVgfyW/view?usp=sharing
 [Algo]: https://drive.google.com/file/d/1Z1sh7jeRZzRpEbCrmrjI_OdTdA63HEk7/view?usp=sharing
+[HTML5]: https://drive.google.com/file/d/1GA9XapRiZRXHmbx78yME7jEgvnkhKJ1O/view?usp=sharing
 <!--  Cursos -->
 
 ## 💬 Palestras
