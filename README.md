@@ -29,6 +29,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | Curso em Video     | **Algoritimos**                       [->][Algo]             | 40 Horas           | Média 10          |
 | Curso em Video     | **HTML5**                            [->][HTML5]             | 40 Horas           |  Média 9          |
 | Curso em Video     | **Curso de PHP**                     [->][PHP]               | 40 Horas           |  Média 9          |
+| Curso em Video     | **PHP7 Completo**                    [->][PHP7]              | 33,5 Horas         |  Média 9          |
 ---
 
 <!-- Cursos -->
@@ -36,6 +37,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 [Algo]: https://drive.google.com/file/d/1Z1sh7jeRZzRpEbCrmrjI_OdTdA63HEk7/view?usp=sharing
 [HTML5]: https://drive.google.com/file/d/1GA9XapRiZRXHmbx78yME7jEgvnkhKJ1O/view?usp=sharing
 [PHP]: https://drive.google.com/file/d/16apwJhvLxBSc2ksgfasmI8aJL-eUAcup/view?usp=sharing
+[PHP7]: https://drive.google.com/file/d/1OS5MX8qMRpCqQwQXZsGO1PHzg0JaDo_h/view?usp=sharing
 <!--  Cursos -->
 
 ## 💬 Palestras
