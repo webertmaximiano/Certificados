@@ -28,7 +28,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | DENSM - Marinha    | **Supervisão de Redes**               [->][SupervisorRedes]  | 80 Horas           | Média 10          |
 | Curso em Video     | **Algoritimos**                       [->][Algo]             | 40 Horas           | Média 10          |
 | Curso em Video     | **HTML5**                            [->][HTML5]             | 40 Horas           |  Média 9          |
-| Curso em Video     | **Curso de P                         [->][PHP]               | 40 Horas           |  Média 9          |
+| Curso em Video     | **Curso de PHP**                     [->][PHP]               | 40 Horas           |  Média 9          |
 ---
 
 <!-- Cursos -->
