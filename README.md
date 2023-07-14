@@ -20,13 +20,12 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 <!-- Acadêmico / Científico -->
 
 ## 🎓 Cursos 
-• `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*;   
-• Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os módulos estudados.
+
 ### 🧑‍💻 Computação/TI
 
 | Órgão emissor      | Curso                                                            | Carga horária      | Avaliação Pessoal |
 | ------------------ | ---------------------------------------------------------------- | ------------------ | ----------------- |
-| ![][sTW]           | ![][i06] **Algoritmos**                                 [⮚][6]  | 34 Horas           | ![][nota8]        |
+| ![][sTW]           | ![][i06] **Supervisão de Redes**          [->][SupervisorRedes]  | 34 Horas           | ![][nota10]        |
 | ![][sTW]           | ![][i07] **Lógica de Orientação a Objetos**              [⮚][7]  | 24 Horas           | ![][nota9]        |
 | ![][sTW]           | ![][i40] **Git e GitHub - Controle de versão**           [⮚][40] | 22 Horas           | ![][nota10]       |
 | ![][sTW]           | ![][i08] **HTML5 e CSS3 - Web Básico**                   [⮚][8]  | 34 Horas           | ![][nota8]        |
@@ -37,6 +36,12 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | ![][sTW]           | ![][i15] **Java 10 - Orientação a Objetos**              [⮚][15] | 22 Horas           | ![][nota10]       |
 | ![][sSL]           | ![][i20] **Python 3** ![][iUS]                           [⮚][20] | *indefinido*       | ![][nota8]        |
 ---
+
+<!-- Cursos -->
+[SupervisorRedes]: https://drive.google.com/file/d/14_YS6F9hF0YJcjjP1ssTFl1DKvCVgfyW/view?usp=sharing
+[Faculdade]: https://drive.google.com/file/d/1a6yLq5hgrF8EcRl3zCOw-WG2JWuZvawD/view?usp=sharing
+
+<!-- Acadêmico / Científico -->
 ## 💬 Palestras
   | Organização         | Conteúdo                                                                 | Carga horária | Avaliação Pessoal |
   | ------------------- | ------------------------------------------------------------------------ | ------------- | ----------------- |
