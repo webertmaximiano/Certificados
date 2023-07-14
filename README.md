@@ -34,12 +34,12 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | UDEMY              | **Laravel 6 - Marketplace**          [->][LARAVEL6]          | 25,5 Horas         |  100%             |
 | UDEMY              | **Dev. Web PHP/Laravel/Vue**         [->][WEB]               | 56,5 Horas         |  100%             |
 | UDEMY              | **WordPress Temas Responsivos**      [->][WP]                | 11 Horas           |  100%             |
-| COUSERA - ITA      | **Princípios de Desenvolvimento Ágil de Software** [->][PDAS] | 16 Horas          |  Média 93,50%     |
-| COUSERA - ITA      | **Orientação a Objetos com Java**                   [->][OOJ] | 31 Horas          |  Média 92,00%     |
-| COUSERA - ITA      | **TDD – Desenvolvimento de Software Guiado por Testes** [->][TDD] | 17 Horas      |  Média 90,65%     |
-| COUSERA - ITA      | **Desenvolvimento Ágil com Java Avançado** [->][DEVJAVA] | Cursando      |  60% concluido     |
-| COUSERA - ITA      | **Desenvolvimento Ágil com Padrões de Projeto** [->][DEVAPP] | Aguardando    |  0% concluido     |
-
+| COURSERA - ITA     | **Princípios de Desenvolvimento Ágil de Software** [->][PDAS] | 16 Horas          |  Média 93,50%     |
+| COURSERA - ITA     | **Orientação a Objetos com Java**                   [->][OOJ] | 31 Horas          |  Média 92,00%     |
+| COURSERA - ITA     | **TDD – Desenvolvimento de Software Guiado por Testes** [->][TDD] | 17 Horas      |  Média 90,65%     |
+| COURSERA - ITA     | **Desenvolvimento Ágil com Java Avançado** [->][DEVJAVA] | Cursando      |  60% concluido     |
+| COURSERA - ITA     | **Desenvolvimento Ágil com Padrões de Projeto** [->][DEVAPP] | Aguardando    |  0% concluido     |
+| COURSERA - Scrimba | **REACT**                    [->][REACT]              | 15 Horas         |  10% concluido            |
 ---
 
 <!-- Cursos -->
@@ -56,6 +56,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 [TDD]: https://coursera.org/share/88c5c5a17228277094cee3232fca98fa
 [DEVJAVA]: https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado/home/welcome
 [DEVAPP]: https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto/home/welcome
+[REACT]: https://www.coursera.org/learn/learn-react/
 <!--  Cursos -->
 
 ## 💬 Palestras
