@@ -32,6 +32,8 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | UDEMY              | **PHP7 Completo**                    [->][PHP7]              | 33,5 Horas         |  100%             |
 | UDEMY              | **Laravel 6 - Marketplace**          [->][LARAVEL6]          | 25,5 Horas         |  100%             |
 | UDEMY              | **Dev. Web PHP/Laravel/Vue**         [->][WEB]               | 56,5 Horas         |  100%             |
+| UDEMY              | **WordPress Temas Responsivos**      [->][WP]                | 11 Horas           |  100%             |
+| COUSERA - ITA      | **Princípios de Desenvolvimento Ágil de Software** [->][PDAS] | 16 Horas          |  Média 93,5       |
 
 ---
 
@@ -43,6 +45,8 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 [PHP7]: https://drive.google.com/file/d/1OS5MX8qMRpCqQwQXZsGO1PHzg0JaDo_h/view?usp=sharing
 [LARAVEL6]: https://drive.google.com/file/d/1Oll8v6nh_TTXQSNKAenPMx-skakAn9TI/view?usp=sharing
 [WEB]: https://drive.google.com/file/d/1WkOtH9oVgTVNf7TiXuxxFJIhRxDZDgkI/view?usp=sharing
+[WP]: https://drive.google.com/file/d/1CC_NtQ0BQ541L9F06QAWYFWZXeTDY5k4/view?usp=sharing
+[PDAS]: https://coursera.org/share/a2455795efa53fbfbdc7b98ebadd5cbe
 <!--  Cursos -->
 
 ## 💬 Palestras
