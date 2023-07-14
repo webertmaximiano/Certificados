@@ -11,13 +11,13 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
 | CMPCB                  | **Certificado de Conclusão do Ensino Médio**    [->][EnsinoMedio] | 30/12/1999                 |
-| ![][sIJ] SIGA          | **Certificado de Participação do Congresso**            [⮚][29]   | xx/xx/xxxx <br> xx/xx/xxxx |
-| ![][sIJ] SIGA          | **Codificador de Estruturas de Repetição**               [⮚][31]   | xx/xx/xxxx                 |
-| ![][sIJ] SIGA          | **Aplicação para Correção Automática de Gabaritos**     [⮚][30]   | xx/xx/xxxx                 |
+| Estacio                | **Analise de Sistema e Desenvolvimento de Software** [->][Faculdade]   | 30/09/2023            |
 
-<!-- Ensino Medio -->
+<!-- Acadêmico / Científico-->
 [EnsinoMedio]: https://drive.google.com/file/d/1s1dFQfJ1h2pVy9ZDi647cZTsTZrTNpdQ/view?usp=sharing
-<!-- Fim do Certificado -->
+[Faculdade]: https://drive.google.com/file/d/1a6yLq5hgrF8EcRl3zCOw-WG2JWuZvawD/view?usp=sharing
+
+<!-- Acadêmico / Científico -->
 
 ## 🎓 Cursos 
 • `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*;   
