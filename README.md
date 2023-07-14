@@ -60,21 +60,16 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 <!--  Cursos -->
 
 ## 💬 Palestras
-  | Organização         | Conteúdo                                                                 | Carga horária | Avaliação Pessoal |
-  | ------------------- | ------------------------------------------------------------------------ | ------------- | ----------------- |
-  | ![][sJG] JugVale    | ![][i02] **Java** - 13º Encontro                                 [⮚][2]  | 8 Horas       | ![][nota9]        |
- 
----
+  | Organização         | Conteúdo                                                       | Carga horária | Avaliação Pessoal |
+  | ------------------- | -------------------------------------------------------------- | ------------- | ----------------- |
+  |  Em breve           | **Em breve**                                                   | em breve      |   em brever      |   
+  ---
 ## 📜 Academias e Oficinas
-  | Organização         | Conteúdo                  | Carga horária | Avaliação Pessoal |
-  | ------------------- | ------------------------- | ------------- | ----------------- |
-  | ![][sSG] Saga       | **Modelagem 3D**  [⮚][3]  | 8 Horas       | ![][nota5]        |
-  | ![][sSB] Softblue   | **JAVA**          [⮚][4]  | 12 Horas      | ![][nota9]        |
-  | ![][sSB] Softblue   | **PHP**           [⮚][5]  | 12 horas      | ![][nota10]       |
+  | Organização         | Conteúdo                                                       | Carga horária | Data              |
+  | ------------------- | -------------_------------------------------------------------ | ------------- | ----------------- |
+  |Adaptideas           | **Hackathon Maricá Eduthec Metodologias Ágeis**                | 8 Horas       | 08/07/2023        |
    
 ---
 ## 🎲 Outros
 | Organização     | Nome                                                       | Descrição                                                                | Ano  |
 | --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
-| ![][sNS] NASA   | **Hot Ticket**: ![][iUS] [⮚][24]                           | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2018 |
-| ![][sCP] CPS    | ![][i53] **MOOC: Online English** ![][iUS]     [⮚][53]   | Conteúdo programático de Inglês EAD                                        |
