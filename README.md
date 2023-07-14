@@ -10,7 +10,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 ## 🏛 Acadêmico / Científico
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
-| ![][sUN] CMPCB         | **Certificado de Conclusão do Ensino Médio**              [->][EnsinoMedio] | 30/12/1999                 |
+| CMPCB                  | **Certificado de Conclusão do Ensino Médio**    [->][EnsinoMedio] | 30/12/1999                 |
 | ![][sIJ] SIGA          | **Certificado de Participação do Congresso**            [⮚][29]   | xx/xx/xxxx <br> xx/xx/xxxx |
 | ![][sIJ] SIGA          | **Codificador de Estruturas de Repetição**               [⮚][31]   | xx/xx/xxxx                 |
 | ![][sIJ] SIGA          | **Aplicação para Correção Automática de Gabaritos**     [⮚][30]   | xx/xx/xxxx                 |
