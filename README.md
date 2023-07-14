@@ -23,9 +23,9 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 
 ### 🧑‍💻 Computação/TI
 
-| Órgão emissor      | Curso                                                            | Carga horária      | Avaliação Pessoal |
+| Órgão emissor      | Curso                                                            | Carga horária      | Avaliação / Média |
 | ------------------ | ---------------------------------------------------------------- | ------------------ | ----------------- |
-| ![][sTW]           | ![][i06] **Supervisão de Redes**          [->][SupervisorRedes]  | 34 Horas           | ![][nota10]        |
+| DENSM - Marinha    | ![][i06] **Supervisão de Redes**          [->][SupervisorRedes]  | 80 Horas           | Média 10       |
 | ![][sTW]           | ![][i07] **Lógica de Orientação a Objetos**              [⮚][7]  | 24 Horas           | ![][nota9]        |
 | ![][sTW]           | ![][i40] **Git e GitHub - Controle de versão**           [⮚][40] | 22 Horas           | ![][nota10]       |
 | ![][sTW]           | ![][i08] **HTML5 e CSS3 - Web Básico**                   [⮚][8]  | 34 Horas           | ![][nota8]        |
