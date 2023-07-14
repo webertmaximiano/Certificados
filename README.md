@@ -37,6 +37,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | COUSERA - ITA      | **Orientação a Objetos com Java**                   [->][OOJ] | 31 Horas          |  Média 92,00%     |
 | COUSERA - ITA      | **TDD – Desenvolvimento de Software Guiado por Testes** [->][TDD] | 17 Horas      |  Média 90,65%     |
 | COUSERA - ITA      | **Desenvolvimento Ágil com Java Avançado** [->][DEVJAVA] | Cursando      |  60% concluido     |
+| COUSERA - ITA      | **Desenvolvimento Ágil com Padrões de Projeto** [->][DEVAPP] | Aguardando    |  0% concluido     |
 
 ---
 
@@ -53,6 +54,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 [OOJ]: https://coursera.org/share/a28bebd8831c992867533368cddc35c4
 [TDD]: https://coursera.org/share/88c5c5a17228277094cee3232fca98fa
 [DEVJAVA]: https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado/home/welcome
+[DEVAPP]: https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto/home/welcome
 <!--  Cursos -->
 
 ## 💬 Palestras
