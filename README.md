@@ -36,7 +36,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | UDEMY              | **WordPress Temas Responsivos**      [->][WP]                | 11 Horas           |  100%             |
 | COURSERA-ITA     | **Princípios de Desenvolvimento Ágil de Software** [->][PDAS]  | 16 Horas           |  Média 93,50%     |
 | COURSERA-ITA     | **Orientação a Objetos com Java**                   [->][OOJ]  | 31 Horas           |  Média 92,00%     |
-| COURSERA-ITA     | **TDD – Desenvolvimento de Software Guiado por Testes** [->][TDD] | 17 Horas        |  Média 90,65%     |
+| COURSERA-ITA     | **TDD–Desenvolvimento de Software Guiado por Teste** [->][TDD] | 17 Horas           |  Média 90,65%     |
 | COURSERA-ITA     | **Desenvolvimento Ágil com Java Avançado** [->][DEVJAVA]       | Cursando           |  60% concluido    |
 | COURSERA-ITA     | **Desenvolvimento Ágil com Padrões de Projeto** [->][DEVAPP]   | Aguardando         |  0% concluido     |
 | COURSERA-Scrimba | **REACT**                    [->][REACT]                       | 15 Horas           |  10% concluido    |
