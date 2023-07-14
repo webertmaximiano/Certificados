@@ -66,10 +66,9 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
   ---
 ## 📜 Academias e Oficinas
   | Organização         | Conteúdo                                                       | Carga horária | Data              |
-  | ------------------- | -------------_------------------------------------------------ | ------------- | ----------------- |
   |Adaptideas           | **Hackathon Maricá Eduthec Metodologias Ágeis**                | 8 Horas       | 08/07/2023        |
    
 ---
 ## 🎲 Outros
-| Organização     | Nome                                                       | Descrição                                                                | Ano  |
-| --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
+| Organização           | Descrição                                                      | Descrição     | Ano               |
+
