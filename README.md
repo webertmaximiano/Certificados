@@ -37,9 +37,10 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | COURSERA-ITA     | **Princípios de Desenvolvimento Ágil de Software** [->][PDAS]  | 16 Horas           |  Média 93,50%     |
 | COURSERA-ITA     | **Orientação a Objetos com Java**                   [->][OOJ]  | 31 Horas           |  Média 92,00%     |
 | COURSERA-ITA     | **TDD–Desenvolvimento de Software Guiado por Teste** [->][TDD] | 17 Horas           |  Média 90,65%     |
-| COURSERA-ITA     | **Desenvolvimento Ágil com Java Avançado** [->][DEVJAVA]       | Cursando           |  60% concluido    |
-| COURSERA-ITA     | **Desenvolvimento Ágil com Padrões de Projeto** [->][DEVAPP]   | Aguardando         |  0% concluido     |
-| COURSERA-Scrimba | **REACT**                    [->][REACT]                       | 15 Horas           |  10% concluido    |
+| COURSERA-ITA     | **Desenvolvimento Ágil com Java Avançado** [->][DEVJAVA]       | Cursando           |  99% concluido    |
+| COURSERA-ITA     | **Desenvolvimento Ágil com Padrões de Projeto** [->][DEVAPP]   | Aguardando         |  99% concluido    |
+| COURSERA-Scrimba | **REACT**                    [->][REACT]                       | 15 Horas           |  100% concluido   |
+| COURSERA-IBM     | **IBM DEVELOPER FRONT-END**  [->][IBMFRONT]                    | 14 Horas           |  50%  concluido   |
 ---
 
 <!-- Cursos -->
@@ -57,6 +58,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 [DEVJAVA]: https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado/home/welcome
 [DEVAPP]: https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto/home/welcome
 [REACT]: https://www.coursera.org/learn/learn-react/
+[IBMFRONT]:https://www.coursera.org/professional-certificates/ibm-frontend-developer
 <!--  Cursos -->
 
 ## 💬 Palestras
