@@ -36,10 +36,10 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 | COURSERA-ITA     | **Princípios de Desenvolvimento Ágil de Software** [->][PDAS]  | 16 Horas           |  Média 93,50%     |
 | COURSERA-ITA     | **Orientação a Objetos com Java**                   [->][OOJ]  | 31 Horas           |  Média 92,00%     |
 | COURSERA-ITA     | **TDD–Desenvolvimento de Software Guiado por Teste** [->][TDD] | 17 Horas           |  Média 90,65%     |
-| COURSERA-ITA     | **Desenvolvimento Ágil com Java Avançado** [->][DEVJAVA]       | Cursando           |  99% concluido    |
-| COURSERA-ITA     | **Desenvolvimento Ágil com Padrões de Projeto** [->][DEVAPP]   | Aguardando         |  99% concluido    |
+| COURSERA-ITA     | **Desenvolvimento Ágil com Java Avançado** [->][DEVJAVA]       | 17 Horas           |  Média 95,58%     |
+| COURSERA-ITA     | **Desenvolvimento Ágil com Padrões de Projeto** [->][DEVAPP]   | 18 Horas           |  Média 94,00%     |
 | COURSERA-Scrimba | **REACT**                    [->][REACT]                       | 15 Horas           |  100% concluido   |
-| COURSERA-IBM     | **IBM DEVELOPER FRONT-END**  [->][IBMFRONT]                    | 14 Horas           |  50%  concluido   |
+| COURSERA-IBM     | **IBM DEVELOPER FRONT-END**  [->][IBMFRONT]                    | 14 Horas           |  Média 82,00%     |
 ---
 
 <!-- Cursos -->
@@ -54,10 +54,10 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 [PDAS]: https://coursera.org/share/a2455795efa53fbfbdc7b98ebadd5cbe
 [OOJ]: https://coursera.org/share/a28bebd8831c992867533368cddc35c4
 [TDD]: https://coursera.org/share/88c5c5a17228277094cee3232fca98fa
-[DEVJAVA]: https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado/home/welcome
-[DEVAPP]: https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto/home/welcome
+[DEVJAVA]: https://coursera.org/share/f54cd9648dd909bbc124cb031a733966
+[DEVAPP]: https://coursera.org/share/18d93adb8f23624ae347cf29fbbb3d40
 [REACT]: https://www.coursera.org/learn/learn-react/
-[IBMFRONT]:https://www.coursera.org/professional-certificates/ibm-frontend-developer
+[IBMFRONT]: https://coursera.org/share/8fbf82ea09fd582af6c587a9316937df
 <!--  Cursos -->
 
 ## 💬 Palestras
