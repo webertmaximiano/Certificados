@@ -16,7 +16,7 @@ Clique nas setas (**->**) para conferir o certificado/comprovante;
 
 <!-- Acadêmico / Científico-->
 [EnsinoMedio]: https://drive.google.com/file/d/1s1dFQfJ1h2pVy9ZDi647cZTsTZrTNpdQ/view?usp=sharing
-[Faculdade]: https://drive.google.com/file/d/1a6yLq5hgrF8EcRl3zCOw-WG2JWuZvawD/view?usp=sharing
+[Faculdade]: https://drive.google.com/file/d/1F7qJmmcWnZ3eAeOLVxEKeKkyZ4rfSKGc/view?usp=sharing
 [Cursadas]: https://drive.google.com/file/d/1ysSblu8zhpoBubeSv0pOW3nWKc9lAHWh/view?usp=sharing
 <!-- Acadêmico / Científico -->
 
